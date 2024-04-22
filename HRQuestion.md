@@ -65,3 +65,36 @@ One of the greatest challenges I faced as a fresher was transitioning from the s
 
 One specific example of this challenge was when I began my internship at [mention the company or organization]. Initially, I felt overwhelmed by the fast-paced nature of the work and the need to apply theoretical knowledge to real-world problems. However, I approached this challenge with a positive attitude and a willingness to learn
 ```
+`Passinate about degree`
+```
+In my degree in Computer Science, I found my passion for artificial intelligence and machine learning. Exploring how algorithms can mimic human cognition and make decisions independently fascinated me. This passion drove me to delve deep into various AI techniques, from neural networks to reinforcement learning.
+
+My degree not only provided me with a solid theoretical foundation but also equipped me with practical skills through hands-on projects and internships. For instance, I worked on developing a sentiment analysis model using natural language processing during my internship, which sharpened my programming abilities and taught me how to handle real-world data challenges.
+```
+
+
+`Miscommunicate`
+```
+One particular instance where I felt I hadn't communicated effectively was during a group project in university. We were tasked with developing a presentation on a complex topic, and each team member was responsible for researching and presenting specific subtopics.
+
+As the deadline approached, I realized that there were inconsistencies in our slides and some information was missing. Upon reflection, I realized that I had assumed everyone understood the project requirements and the division of tasks without explicitly discussing it.
+
+To correct the situation, I called for an emergency team meeting. During the meeting, I acknowledged the breakdown in communication and took responsibility for not ensuring clarity from the beginning. I encouraged open dialogue and asked each team member to share their progress and concerns.
+
+Through effective communication and collaboration, we were able to identify the missing information, redistribute tasks accordingly, and align our efforts towards a cohesive presentation
+```
+
+`Friend explain`
+```
+Recently, a friend approached me for help in understanding the MERN stack, as they were interested in learning web development. Knowing the technology well, I was excited to explain it to them.
+
+Firstly, I began by breaking down the components of the MERN stack - MongoDB, Express.js, React, and Node.js. I explained the role of each component in building modern web applications and how they work together seamlessly.
+
+To make it more understandable, I used analogies and real-world examples. For instance, I compared MongoDB to a digital filing cabinet for storing data, Express.js to a bridge that connects the client and server, React to a dynamic user interface builder, and Node.js to a server-side JavaScript runtime environment.
+
+Next, I created a simple project demonstration to showcase how the MERN stack operates in a real-world scenario. I walked my friend through the process of setting up a basic application, explaining each step along the way and highlighting the key concepts.
+
+Throughout the explanation, I encouraged my friend to ask questions and provided additional resources for further learning, such as online tutorials and documentation.
+
+The outcome was fantastic! My friend gained a solid understanding of the MERN stack fundamentals and felt more confident about diving deeper into web development. They appreciated the hands-on approach and found the analogies helpful in grasping complex concepts. As a result, they were eager to start building their own projects using the MERN stack.
+```
